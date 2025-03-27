@@ -1,4 +1,4 @@
-APIKYE = 'c4b469446da64a62a7455412241903';
+APIKYE = '';
 
 
 // API = `https://api.weatherapi.com/v1/current.json?key=c4b469446da64a62a7455412241903&q=London&aqi=yes`
